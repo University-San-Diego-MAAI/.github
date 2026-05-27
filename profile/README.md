@@ -1,4 +1,4 @@
-# 👥 Team 2 – Masters in Applied Artificial Intelligence
+# 👥 Masters in Applied Artificial Intelligence
 
 Welcome to the official GitHub profile of **Team 2**, a collaborative group of postgraduate students currently pursuing our **Masters in Applied Artificial Intelligence**.
 
@@ -11,8 +11,10 @@ We are a team of 3 enthusiastic AI practitioners who are passionate about explor
 | Member | Role | Interests |
 |--------|------|-----------|
 | Sourangshu Pal | Senior Visual Computing Engineer | Deep Learning, Model Optimization |
-| Riyaz Khorasi | Data Scientist | Natural Language Processing, Ethics in AI |
-| Prashant Khare | Senior Architect | Computer Vision, MLOps |
+| Manoj Patra | Senior Architect | Computer Vision, MLOps |
+| Tanvi Singh | Senior Architect | Computer Vision, MLOps |
+| Riyaz Khorasi | Data Scientist | Natural Language Processing, Ethics in AI | LEFT |
+| Prashant Khare | Senior Architect | Computer Vision, MLOps | LEFT |
 
 ---
 
